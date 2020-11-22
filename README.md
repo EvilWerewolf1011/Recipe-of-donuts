@@ -1,5 +1,5 @@
 donuts
 
-[ingredients] (ingredients.md)
+[ingredients] (ingrdients.md)
 
 [Recipe](Recipe.md)
